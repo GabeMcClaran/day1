@@ -1,0 +1,15 @@
+.text-red{
+  color: red;
+  background-color: blue;
+}
+
+h1.text-red {
+  color: rgb(214, 65, 65);
+  display: block;
+  font-size: 15em;
+  margin: 0;
+}
+
+.text-red{
+  color: red;
+}
